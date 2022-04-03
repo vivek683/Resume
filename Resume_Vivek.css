@@ -1,0 +1,57 @@
+
+/* right section css code begins */
+.right i{
+  color: rgb(180, 180, 180);
+}
+#hr_tag_left{
+    height: 5px;
+    background-color: rgb(0, 71, 130);
+    border: none;
+  }
+  .right{
+    background-color: rgb(18, 80, 130);
+color: white;
+
+}
+/* .rightMid{
+  white-space: nowrap;
+}  */
+#hr_tag_right{
+    height: 5px;
+    background-color: rgb(255, 255, 255);
+    border: none;
+  }
+.rightTop img{
+    width: 50%; 
+    border-radius: 10%; 
+    border-style: solid ;
+    border-width: 5px;
+    border-color: rgb(98, 169, 227);
+    display: block;
+    margin: auto;
+    margin-top: 10%;
+ }
+.right h5,#mt{
+     margin-top: 5px;
+}
+.left i{
+  color: rgb(98, 169, 227);
+}
+.left{
+    background-color: rgb(180, 180, 180);
+}
+.left span{
+ color: rgb(98, 169, 227);
+}
+/* .wrapper{
+  display: grid ;
+} */
+#t1{
+  float: left;
+}
+#ib{
+  display:flex;
+}
+.progress{
+margin-top: 5px;
+}
